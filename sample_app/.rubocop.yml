@@ -12,4 +12,4 @@ AllCops:
     - 'config/spring.rb'
     - 'lib/tasks/*'
     - 'vendor/**/*'
-    - 'path/ruby'ra
+    - 'path/ruby'
